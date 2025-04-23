@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @grasjenk
-- 👀 I’m owner on fivepay.eu ...
+- 👀 I’m owner of fivepay.eu ...
 
 <!---
 grasjenk/grasjenk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
